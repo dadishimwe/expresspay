@@ -12,7 +12,7 @@ Current images in use:
 - `partners-image.png`
 
 ## About V3 section (CSS backgrounds)
-- `about-v3-image-1.jpeg`
+- `about-v3-image-1.png`
 - `about-v3-image-2.png`
 
 ## Services section
